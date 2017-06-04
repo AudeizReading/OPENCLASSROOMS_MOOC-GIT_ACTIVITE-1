@@ -25,3 +25,26 @@ On collera ce lien dans un fichier .txt mis à notre disposition, qu'on renverra
 4. readLines.php
 ### COMMITS
 Du plus récent au plus ancien, sauf commit final :
+commit ccbdadbfdf910d3fcf429a12e5d0ed65a9f836fe
+Author: AudeizReading <XXXXXXXX@XXXXXXX.XX>
+Date:   Sun Jun 4 13:53:16 2017 +0200
+
+    MAJ Fichier : README.md / Modification titre principal; Modification titre section ENONCE pour CONSIGNES; Ajout section REALISATION
+
+commit 469aa9d4d2d8fd8942ed20799cb11db0a5463f1d
+Author: AudeizReading <XXXXXXXX@XXXXXXX.XX>
+Date:   Sun Jun 4 13:32:20 2017 +0200
+
+    Création Fichier : readLines.php / Script PHP lisant ligne par ligne un fichier donné. Ajouté pour respecter les consignes de l'activité (Au moins 2 autres fichiers de notre choix en plus du readme).
+
+commit 96ab57b48a6797c20a51828ed8c4e4877b866f9d
+Author: AudeizReading <XXXXXXXX@XXXXXXX.XX>
+Date:   Sun Jun 4 13:14:05 2017 +0200
+
+    Création Fichiers : .gitignore; git_p2_activite.txt \n Fichier git_p2_activite.txt : Recense l'URL du repository à soumettre pour correction de l'activité. \n Fichier .gitignore : Initiation au concept de non-tracking de fichiers, création d'un fichier .gitignore pour exclure le fichier git_p2_activite.txt des commits à venir.
+
+commit 0677ec8beeae7d2e240c94e3de9e9b6839939548
+Author: AudeizReading <XXXXXXXX@XXXXXXX.XX>
+Date:   Sun Jun 4 13:01:08 2017 +0200
+
+    Création Fichier : README.md / Fichier décrivant les consignes de l'activité.
