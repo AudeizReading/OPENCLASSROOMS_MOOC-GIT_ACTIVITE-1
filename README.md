@@ -9,7 +9,7 @@ Il nous est demandé de créer un repository Git simple contenant :
 	
 1. un fichier nommé "README.md" (arf "README.txt" dans l'énoncé, mais on ne va pas chipoter sur le format texte que chacun souhaite employer pour ce README...);
 2. au moins deux autres fichiers de notre choix qui pourront contenir des scripts de code, du texte, etc.;
-3. au moins quatre commits distinct montrant l'ajout, puis la modification de certains fichiers, avec des messages de commit de qualité.
+3. au moins quatre commits distincts montrant l'ajout, puis la modification de certains fichiers, avec des messages de commit de qualité.
 
 Une fois que le repository est créé, il faut l'envoyer sur GitHub, puis copier l'URL du repository GitHub créé spécialement pour l'activité.
 
@@ -25,6 +25,7 @@ On collera ce lien dans un fichier .txt mis à notre disposition, qu'on renverra
 4. readLines.php
 ### COMMITS
 Du plus récent au plus ancien, sauf commit final :
+
 commit ccbdadbfdf910d3fcf429a12e5d0ed65a9f836fe
 Author: AudeizReading <XXXXXXXX@XXXXXXX.XX>
 Date:   Sun Jun 4 13:53:16 2017 +0200
